@@ -7,3 +7,5 @@
 4. Perform Gaussian elimination on the augmented matrix to convert it into an upper triangular matrix.
 5. Use back substitution to solve for the coefficients [a_m, a_(m-1), ..., a_1, c].
 6. Print the constant term `c` (this is the secret).
+
+   
